@@ -126,7 +126,7 @@ btn_valider.pack()
 label_resultat = tk.Label(fenetre, text="")
 label_resultat.pack()
 
-
+"test à voir"
 
 
 
